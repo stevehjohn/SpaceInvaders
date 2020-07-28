@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Git/SpaceInvaders/src/SpaceInvaders/SpaceInvaders/Content/Bullet.png","C:/Git/SpaceInvaders/src/SpaceInvaders/SpaceInvaders/Content/bin/Windows/Content/Bullet.xnb","TextureProcessor","Texture2DContent",129,149,0.126868
+"C:/Git/SpaceInvaders/src/SpaceInvaders/SpaceInvaders/Content/Invaders.png","C:/Git/SpaceInvaders/src/SpaceInvaders/SpaceInvaders/Content/bin/Windows/Content/Invaders.xnb","TextureProcessor","Texture2DContent",499,36949,0.1230124
+"C:/Git/SpaceInvaders/src/SpaceInvaders/SpaceInvaders/Content/Ship.png","C:/Git/SpaceInvaders/src/SpaceInvaders/SpaceInvaders/Content/bin/Windows/Content/Ship.xnb","TextureProcessor","Texture2DContent",1286,7765,0.1301042
