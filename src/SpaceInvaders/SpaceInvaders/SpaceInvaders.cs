@@ -147,7 +147,7 @@ namespace SpaceInvaders
                 }
             }
 
-            if (indexToRemove > 0)
+            if (indexToRemove >= 0)
             {
                 _invaders.Remove(indexToRemove);
             }
@@ -188,7 +188,7 @@ namespace SpaceInvaders
                 _spriteBatch.Draw(
                     _invaderSprites,
                     new Vector2(invader.Value.X, invader.Value.Y),
-                    new Rectangle(invader.Value.Type * 48 + (_altAnimation ? 48 : 0), 0, 48, 32),
+                    new Rectangle(invader.Value.Type * 96 + (_altAnimation ? 48 : 0), 0, 48, 32),
                     new Color(0, 255, 0));
             }
 
