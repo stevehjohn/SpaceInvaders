@@ -4,4 +4,6 @@ Over beer on the weekend, a friend asked me how long he thought it would take to
 
 I am an experienced coder, so don't criticise all the rules I break regarding best practices in this, it was simply a race for fun.
 
+Also, a lot is "Standing on the Shoulders of Giants" so to speak. Without MonoGame, this would not have been so easy.
+
 Realtime view here [Youtube](https://www.youtube.com/watch?v=iNwRN328T7w)
