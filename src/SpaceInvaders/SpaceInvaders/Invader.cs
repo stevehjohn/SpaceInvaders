@@ -1,13 +1,10 @@
-﻿namespace SpaceInvaders
+﻿namespace SpaceInvaders;
+
+public class Invader
 {
-    public class Invader
-    {
-        public int Type { get; set; }
+    public int Type { get; init; }
 
-        public float X { get; set; }
+    public float X { get; set; }
 
-        public int Y { get; set; }
-
-        public int Frame { get; set; }
-    }
+    public int Y { get; set; }
 }

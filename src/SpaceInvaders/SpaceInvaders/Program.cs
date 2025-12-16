@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace SpaceInvaders
+namespace SpaceInvaders;
+
+public static class Program
 {
-    public static class Program
+    [STAThread]
+    public static void Main()
     {
-        [STAThread]
-        static void Main()
-        {
-            using (var game = new SpaceInvaders())
-                game.Run();
-        }
+        using var game = new SpaceInvaders();
+        
+        game.Run();
     }
 }
